@@ -1,2 +1,3 @@
 # 1stDemo
-This is my first Demo repository
+This is my first Demo repository.
+Author:Swayam Agarwal
